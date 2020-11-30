@@ -1,0 +1,87 @@
+@media(min-width: 992px){
+.box{
+  position: relative;
+  border:5px solid white;
+    max-width: 800;
+    margin: 0px auto;
+    height: 800px;
+}
+
+.hap2{
+  position: relative;
+left:110px;
+bottom: 37px;
+}
+.hap3{
+  position: relative;
+  left:201px;
+  bottom: 73px;
+}
+.hap4{
+  position: relative;
+  left:250px;
+  bottom: 109px;
+}
+}
+@media(min-width: 768px) and (max-width: 992px){
+.box{
+  position: relative;
+  border:5px solid white;
+    max-width: 800;
+    margin: 0px auto;
+    height: 800px;
+}
+.lox{
+  position: relative;
+left:110px;
+bottom: 74px;
+}   
+
+}
+@media(max-width: 768px){
+ .lox{
+  text-align: center;
+ }
+ .loz{
+  text-align: center;
+ }
+}
+
+
+h1{
+        text-align: center;
+        font-size: 24px;
+    }
+
+   p{
+        font-size: 120%
+   }
+
+   .hap1:link {
+       color: red;
+        
+   }
+   .hap1:visited{
+       color: gold;
+    
+   }
+   .hap2:link{
+       color: aqua;
+      
+   }
+   .hap2:visited{
+       color:lime;
+    
+   }
+   .hap3:link{
+    color: blue
+   }
+   .hap3:visited{
+    color:black;
+   }
+   .hap4:link{
+    color: yellow
+   }
+   .hap4:visited{
+    color:gray;
+   }

@@ -1,0 +1,79 @@
+@media(min-width: 992px){
+    .mini2{
+     bottom: 510px;
+    }
+    .mini1{
+        right:500px;
+    }
+}
+@media(min-width: 768px) and (max-width: 992px){}
+@media(max-width: 768px){}
+h1{
+
+        text-align: center;
+        font-size: 22px;
+    }
+    .mini2{
+        position: relative;
+  border:5px solid white;
+   max-width: 400px;
+    margin: 0px auto;
+    height: 500px;
+
+    }
+    .mini1{
+      position: relative;
+  border:5px solid white;
+   max-width: 400px;
+    margin: 0px auto;
+    height: 500px;
+}
+    .box{
+        position: relative;
+  border:5px solid white;
+    max-width: 1000;
+    margin: 0px auto;
+    height: 1270px;
+
+    }    
+     .dodo2{
+    font-style: italic;
+}
+
+    a{text-decoration: none;}
+    }
+    ul {
+    	list-style: none;
+    	padding: 0;
+    }
+
+    .one{
+    	
+    	background: gray;
+    	 width:270px;
+    }
+    .two{
+    	background-clip: content-box;
+    	background: white;
+    	 width: 200px;
+    }
+    .shot {
+    	background: red;
+    	width:230px;
+    }
+    .long{
+    cursor: pointer;
+    }
+    .qwer{
+    	background: gray;
+    	width: 230px;
+    }
+    .qwert{
+    	background: gray;
+    	width: 230px;
+    }
+    .qwerty{
+    	background: gray;
+    	width: 230px;
+    }
+   

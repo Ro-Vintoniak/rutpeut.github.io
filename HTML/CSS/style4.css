@@ -1,0 +1,84 @@
+ @media(min-width: 992px){
+  .num2{
+    position: relative;
+    left: 500px;
+    bottom: 550px;
+    max-width: 450px;
+    
+  }
+  .nom2{
+    position: relative;
+    bottom: 43px;
+  }
+  .num1{
+    max-width: 450px;
+  }
+  .num3{
+    position: relative;
+    max-width: 500px;
+    max-height: 300px;
+    left: 993px;
+    bottom: 1150px;
+  }
+  .nom3{
+    position: relative;
+    bottom: 33px;
+  }
+ }
+ @media(min-width: 768px) and (max-width: 992px){
+  .num2{
+    position: relative;
+    left: 450px;
+    bottom: 550px;
+    max-width: 400px;
+  }
+  .num1{
+    position: relative;
+    max-width: 400px; 
+  }
+  .nom2{
+    position: relative;
+    bottom: 43px;
+  }
+   .num3{
+    position: relative;
+    max-width: 500px;
+    max-height: 300px;
+    left: 225px;
+    bottom: 625px;
+  }
+ }
+ @media(max-width: 768px){}
+ 
+ .box{
+  position: relative;
+  border:5px solid white;
+    max-width: 1000;
+    margin: 0px auto;
+    height: 2300px;
+ }
+h1{
+        text-align: center;
+        font-size: ;
+    }
+     .dodo5{
+    font-style: italic;
+}
+h2{
+  text-align: center;
+}
+h3{
+  font-size: 70%
+}
+    .dag{
+        font-size: 180%;
+    }
+
+    .job{
+       font-size: 210%;
+    }
+
+    .fast,img{
+       
+        max-width:100%;
+    }
